@@ -540,17 +540,25 @@ span {
   color: currentColor;
 }
 .sub-btn {
+  min-width: 165px;
+  height: 40px;
   color: #ffffff;
   border-radius: 4px;
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   display: flex;
   padding: 8px 24px;
   justify-content: center;
   align-items: center;
   gap: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  border: none;
 }
 .sub-btn-icon {
   fill: #ffffff;
+  margin-left: 16px;
 }
 
 .backdrop {
