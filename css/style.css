@@ -527,9 +527,10 @@ span {
   padding: 8px 16px;
 
   color: var(--WHITE, #fff);
+  font-size: 12px;
   font-weight: 400;
   line-height: 2;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.04em;
 
   outline: none;
   border: 1px solid #fff;
