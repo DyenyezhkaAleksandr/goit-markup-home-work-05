@@ -768,7 +768,7 @@ span {
 .modal-cb-link {
   color: #4d5ae5;
 }
-.checkbox:checked + .modal-privacy > .modal-cb {
+.checkbox:checked + .modal-privacy .modal-cb {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
