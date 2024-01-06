@@ -773,7 +773,7 @@ span {
   border: none;
   fill: #f4f4fd;
 }
-.checkbox:checked + .modal-privacy > .modal-cb-icon {
+.checkbox:checked + .modal-privacy > .modal-cb .modal-cb-icon {
   opacity: 1;
   transform: scale(1);
 }
