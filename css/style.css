@@ -550,7 +550,6 @@ span {
   padding: 8px 24px;
   justify-content: center;
   align-items: center;
-  gap: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -643,7 +642,6 @@ span {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-transform: uppercase;
 }
 
 .modal-form {
